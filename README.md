@@ -1,1 +1,1 @@
-# Proof-of-Theorem-2-PINN-for-PF-
+# The-UPINN-for-PF-Paper-Appendix
